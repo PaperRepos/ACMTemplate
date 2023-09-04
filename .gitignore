@@ -276,3 +276,5 @@ TSWLatexianTemp*
 *.lpz
 
 main.pdf
+spell_check
+main_font_embedded.pdf
